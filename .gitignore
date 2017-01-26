@@ -3,6 +3,7 @@
 *.pot
 *.py[co]
 .tox/
+secure/
 __pycache__
 MANIFEST
 dist/
