@@ -4,6 +4,7 @@
 *.py[co]
 .tox/
 secure/
+settings.py*
 __pycache__
 MANIFEST
 dist/
